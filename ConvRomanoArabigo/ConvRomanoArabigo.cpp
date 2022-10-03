@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 using namespace std;
-
+//Adrian Alejandro Montes Mendoza
 //si meto 9 el romano debe ser IX
 //Numeros romanos son: I = 1, V = 5, X = 10, L = 50, C = 100, D = 500, M = 1000.
 //
@@ -134,6 +134,7 @@ int main()
     bool validate;
     
     do {
+        cout << "Adrian Alejandro Montes Mendoza - 22110135 " << endl;
         cout << "Convertidor de numeros romanos a arabigos" << endl;
         getline(cin, romano[0]);
         Tamano = romano[0].length();
