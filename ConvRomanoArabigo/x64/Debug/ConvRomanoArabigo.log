@@ -1,0 +1,4 @@
+﻿  ConvRomanoArabigo.cpp
+C:\Users\Usuario\source\repos\ConvRomanoArabigo\ConvRomanoArabigo\ConvRomanoArabigo.cpp(139,36): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Usuario\source\repos\ConvRomanoArabigo\ConvRomanoArabigo\ConvRomanoArabigo.cpp(114): warning C4715: 'StringToCharArray': no todas las rutas de acceso de control devuelven un valor
+  ConvRomanoArabigo.vcxproj -> C:\Users\Usuario\source\repos\ConvRomanoArabigo\x64\Debug\ConvRomanoArabigo.exe
